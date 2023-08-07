@@ -32,4 +32,13 @@ This dataset, which details the American movies and TV episodes that are current
 *	credits.csv - Over 140k credits of actors and directors are included in the "credits.csv" file, which has five columns that include the person ID on Just Watch, the title ID on Just Watch, the actor or director's name, the character name, and the role (either ACTOR or DIRECTOR). 
 This dataset offers insights into the different kinds of content that are available on Amazon Prime, including genre and runtime distributions, popular titles, and details on the producers—such as the actors and directors—who worked on the project.
 
+# Pre-processing on the dataset:
+###  	Libraries used for preprocessing the data:
+* ast - The Python library ast provides a way to parse and manipulate the source code of a Python program.
+*	MultiLabelBinarizer - The class is imported from sklearn.preprocessing module and is used to convert a list of labels into a binary matrix representation, and is often used in multi-label classification tasks.
+*	pandas - The Python library pandas are used for reading, manipulating, and analyzing data.
+*	NumPy - NumPy is used while working with arrays and matrices of numerical data. 
+
+
+
 
