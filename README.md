@@ -37,7 +37,36 @@ This dataset offers insights into the different kinds of content that are availa
 * ast - The Python library ast provides a way to parse and manipulate the source code of a Python program.
 *	MultiLabelBinarizer - The class is imported from sklearn.preprocessing module and is used to convert a list of labels into a binary matrix representation, and is often used in multi-label classification tasks.
 *	pandas - The Python library pandas are used for reading, manipulating, and analyzing data.
-*	NumPy - NumPy is used while working with arrays and matrices of numerical data. 
+*	NumPy - NumPy is used while working with arrays and matrices of numerical data.
+  
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/16b81fea-495b-4561-9a57-651c85c47dc3)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/6336aec7-e6d1-4b21-b668-3b682ccc88d1)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/776eee79-d0bb-4106-bce7-7b7964345f53)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/3ab51d1d-eed5-4aa4-a5f1-f0ea2fe7632b)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/43ebfa76-c6ba-49d1-8a5b-4edb9fc000ec)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/44bc5014-7db8-4f61-8dae-c0106eb76ab2)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/647ec632-8d2e-41cd-afc9-d5c18ec7381e)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/eca92264-f7f6-471f-aeeb-9450e5e4eb68)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/f4e98fa5-bc68-4aa6-aebf-3eb226020e85)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/eb3778c1-e47a-4c00-bc8d-c535d3a9e78a)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/4a64dada-7e33-405e-92db-72ac9365ad90)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/bccbc67d-fc02-4ec4-af66-33c71a6cd1c0)
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/bc50e31f-c796-4058-b52d-3bd64fe78bc1)
+
+  # Dashboard
+  
+  ![image](https://github.com/Alagesan-Sushmitha/Analysis-Amazon-Movies-and-TV-Shows/assets/137837229/aaedae3b-3026-49a6-9fde-0180490191e1)
+  
+### Explanation of dashboard:
+With the advent of the internet and communication revolution, almost every human has a smartphone. This led to several businesses moving online. One such industry is the entertainment industry, which has adopted this mode of delivery extensively. It is evident from the sheer number of OTT (Over the top) platforms that are on the rise. Further the e-commerce giant Amazon has not backed up from the competition by introducing their very own OTT platform Amazon Prime. 
+This dashboard is primarily designed to provide useful actionable insights for the end users to extract information regarding the myriad of content available on this platform. The dashboard can provide insights into the Amazon TV and Movies shows that were released since 1913 to 2023. The dashboard is aimed at answering various questions related to the distribution of content across different genres, age certifications, production countries, and release years. It also looks at the top N countries and actors based on various criteria such as content production and IMDB score. Additionally, it provides a comparison of TV shows' popularity with seasons across different factors.
+Overall, the dashboard is used for exploratory data analysis and to derive insights from the Amazon TV and Movies shows dataset. The insights generated from the dashboard can be used by content creators, producers, and other stakeholders to make informed decisions about content production, marketing, and distribution.
+
+
+
+
+
+
 
 
 
